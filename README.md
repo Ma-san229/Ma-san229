@@ -31,6 +31,11 @@
 
 ## Selected repositories
 
+- [Personal AI News Hub](https://github.com/Ma-san229/personal-ai-news-hub) — AIニュースを集めて読む個人用ハブ（TypeScript / Drizzle）
+- [AI Practice Media](https://github.com/Ma-san229/ai-practice-media) — AI活用の実践を発信するメディアサイト（Astro）
+- [AI Companion](https://github.com/Ma-san229/AI-Companion) — 福岡市エンジニアカフェの音声・RAG案内（Convex + Cloudflare）
+- [Agent Template](https://github.com/Ma-san229/DIfy-Agnet) — 業務特化のAIエージェントを作るテンプレート（Python）
+- [GAS Generator](https://github.com/Ma-san229/gas) — 日本語の指示からGoogle Apps Scriptを生成するツール
 - [Hackathon Vol.9](https://github.com/Ma-san229/Hackathon-Vol9) — ハッカソンで作成したWebアプリ
 
 ## GitHub Stats
