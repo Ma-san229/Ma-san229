@@ -31,8 +31,6 @@
 
 ## Selected repositories
 
-- [Claude Code Communication](https://github.com/Ma-san229/Claude-Code-Communication) — 複数のAIエージェントが役割を分担して開発する仕組み
-- [Context Engineering MCP](https://github.com/Ma-san229/context_engineering_MCP) — AIに渡す情報や指示を扱うMCP関連の取り組み
 - [Hackathon Vol.9](https://github.com/Ma-san229/Hackathon-Vol9) — ハッカソンで作成したWebアプリ
 
 ## GitHub Stats
